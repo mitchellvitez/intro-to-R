@@ -74,7 +74,7 @@ Load Data
 ---------
 Use `read.table()` to read in spreadsheets in .csv, tab separated, etc.
 
-Use flags `strip.white=TRUE` and `stringsAsFactors=FALSE` to remove extra whitespace and avoid using those pesky factors (see [Data Types]())
+Use flags `strip.white=TRUE` and `stringsAsFactors=FALSE` to remove extra whitespace and avoid using those pesky factors (see [Data Types](#data-types))
 
 Join Data
 ---------
